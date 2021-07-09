@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Overlock&display=swap');
+
+body{
+    background-color: purple;
+    font-family: 'Overlock', cursive;
+}
+p{
+    font-size: 50px;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: yellow;
+}
+h3{
+    font-size: 60px;
+    color: teal;
+}
+#greenyellow{
+    color: greenyellow;
+}
+img{
+    height: 300px;
+    width: 500px;
+    align-self: center;
+}
